@@ -1,4 +1,4 @@
-# ABTest-CookieCatsGameDataSet-
+# ABTest-CookieCatsGameDataSet-kaggle-dataset
 
 Source: https://www.kaggle.com/mursideyarkin/mobile-games-ab-testing-cookie-cats
 
